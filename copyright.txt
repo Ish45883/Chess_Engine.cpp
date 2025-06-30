@@ -1,0 +1,15 @@
+Copyright © 2019 Ishan Arya
+
+This project is my undertaking for educational and research purposes. I make no guarantees or accept any warranties concerning the performance, reliability, or suitability of this program for any particular purpose. The chess engine is therefore released 'as-is'.
+
+Important Notices:
+
+No Liability: The author shall not be liable for any damages or loss of data or any other problems occurring as a consequence of the use of this program.
+
+No Warranty: No warranty is granted on the correctness of move evaluations, performance, or compatibility with third-party systems.
+
+For Non-Commercial Purposes: The project is meant to be used for non-commercial purposes. Redistribution, modification, or commercial use of the software is regulated by pertinent licensing agreements.
+
+Ownership: Any third-party library included in this project operates under its own license, and the author does not claim ownership over such components.
+
+By using this code, you acknowledge that you have read and agree to these terms.
