@@ -278,7 +278,7 @@ Used by the evaluation functions to assess king safety and proximity.
 **Note:**  
 This is a prototype and a phase one beta model. Castling, checks, and checkmates are not yet implemented. Await further improvements
 
-
+This repository does not contain primary source code. Kindly contact author for the same.
 
 ## Demo
  Below is a snapshot of the program running using the system terminal.
